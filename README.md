@@ -1,1 +1,3 @@
 # mandelbrot
+
+![](./images/figure.png)
